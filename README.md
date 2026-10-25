@@ -57,15 +57,15 @@ curl -fsSL https://raw.githubusercontent.com/lucasfth/brand/v1/scripts/sync.sh |
 <details>
 <summary>Consumers</summary>
 
-A repository moves from planned to pulling once its pull request is merged and the deployed site is verified.
+Live means the change is on `main` and the deployed site or rendered README was checked.
 
 | Repository | Uses | Status |
 | --- | --- | --- |
-| `lucasfth/portfolio` | Favicons, app icons, navbar mark | Planned |
-| `lucasfth/littlelink` | Favicon | Planned |
-| `lucasfth/skaljegpaski.dk` | Favicons, app icons, README mark | Planned |
-| `lucasfth/lucasfth` | Profile README mark | Planned |
-| `lucasfth/config` | README mark | Planned |
+| `lucasfth/portfolio` | Favicons, app icons, navbar mark | Live |
+| `lucasfth/littlelink` | Favicon | Live |
+| `lucasfth/skaljegpaski.dk` | Favicons, app icons, README mark | Live |
+| `lucasfth/lucasfth` | Profile README mark | Live |
+| `lucasfth/config` | README mark | Live |
 
 </details>
 
