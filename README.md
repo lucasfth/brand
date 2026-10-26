@@ -27,6 +27,7 @@ The mark is a prism that is also a play button and a terminal prompt: light ente
 | `dist/lockup/` | Mark with the `hbit` wordmark and `HANSON BITOPTIK`, horizontal and stacked. Text is outlined, so no font is needed. |
 | `dist/favicon/` | `favicon.ico` (16/32/48), `apple-touch-icon.png`, `icon-192.png`, `icon-512.png`, `icon.svg`. The 16 and 32 px files are hand-placed pixels. |
 | `dist/qr/` | QR code for `https://hbit.sh` in the same frame style, dark modules on light. |
+| `signature/` | E-mail signature templates, three mailboxes in English and Danish (see `signature/README.md`). |
 
 | Token | Value |
 | --- | --- |
@@ -66,6 +67,7 @@ Live means the change is on `main` and the deployed site or rendered README was 
 | `lucasfth/skaljegpaski.dk` | Favicons, app icons, README mark | Live |
 | `lucasfth/lucasfth` | Profile README mark | Live |
 | `lucasfth/config` | README mark | Live |
+| E-mail clients (Mail.app, Gmail) | Mark, beam colours, Space Mono via `signature/` | Live (local, 2026-10-26) |
 
 </details>
 
