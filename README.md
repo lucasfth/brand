@@ -86,4 +86,4 @@ Set `QR_URL` to encode a different link. Decoding a rendered PNG is not a phone 
 
 ## Licence
 
-Code and build/sync scripts are [MIT-licensed](LICENSE). The hbit and Hanson BitOptik marks and artwork are © Lucas Hanson, all rights reserved except for the limited permissions in the [brand-use policy](BRAND-POLICY.md). That policy permits accurate references and redistribution with unmodified software, including commercially; it does not license the marks under MIT. Space Mono in `fonts/` retains the [SIL Open Font License 1.1](fonts/OFL.txt). See [licensing scope](LICENSING.md).
+**Brand assets are not MIT-licensed.** The hbit and Hanson BitOptik marks and artwork are © Lucas Hanson, all rights reserved except for the limited permissions in the [root license](LICENSE) and identical [brand-use policy](BRAND-POLICY.md). Code and build/sync scripts alone are [MIT-licensed](LICENSES/MIT-code.txt). That policy permits accurate references and redistribution with unmodified software, including commercially; it does not license the marks under MIT. Space Mono in `fonts/` retains the [SIL Open Font License 1.1](fonts/OFL.txt). See [licensing scope](LICENSING.md).
