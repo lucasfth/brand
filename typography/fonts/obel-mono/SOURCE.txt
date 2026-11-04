@@ -1,0 +1,8 @@
+Official upstream: https://typographic.systems/obel-mono
+Archive: https://typographic.systems/download/ObelMono-1.000-woff2.zip
+Archive SHA-256: 06517b2868ce6c1cc7d807a2d4e7050581121d865e396349f7cdf71fa1a36630
+Files are unmodified; SHA-256 digests:
+dd08747a1152757c7651c828846fda891c69f8af6c0254fdfac6ce6c5b8b6177  AUTHORS.txt
+6fd1d5747b4d6988d19b4b2b0456fb16d567a0b4e9c4ec8008fbe489478b343e  OFL.txt
+8f16e53fb1b03ac369cbbcc6d3fd8ec83a6dfa5539bbec98491d275888a7cc6e  ObelMono-Italic-VF.woff2
+a5df620be83687b4b9557a5077025c3bee312c4e95c3409fe1edd4083b2c4313  ObelMono-VF.woff2

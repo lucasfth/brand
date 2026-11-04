@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/source-serif-4/SourceSerif4Variable-Roman.ttf.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/source-serif-4/SourceSerif4Variable-Italic.ttf.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("fonts/source-sans-3/SourceSans3VF-Upright.ttf.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("fonts/source-sans-3/SourceSans3VF-Italic.ttf.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Obel Mono";
+  src: url("fonts/obel-mono/ObelMono-VF.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Obel Mono";
+  src: url("fonts/obel-mono/ObelMono-Italic-VF.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+}
+:root {
+  --brand-font-heading: "Source Serif 4", Georgia, serif;
+  --brand-font-body: "Source Sans 3", Arial, Helvetica, sans-serif;
+  --brand-font-mono: "Obel Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
