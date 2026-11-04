@@ -28,6 +28,7 @@ The mark is a prism that is also a play button and a terminal prompt: light ente
 | `dist/favicon/` | `favicon.ico` (16/32/48), `apple-touch-icon.png`, `icon-192.png`, `icon-512.png`, `icon.svg`. The 16 and 32 px files are hand-placed pixels. |
 | `dist/qr/` | QR code for `https://hbit.sh` in the same frame style, dark modules on light. |
 | `signature/` | E-mail signature templates, three mailboxes in English and Danish (see `signature/README.md`). |
+| `typography/` | Self-hosted website fonts, role tokens, OFL licences and pinned provenance; separate from the Space Mono logo. |
 
 | Token | Value |
 | --- | --- |
@@ -36,6 +37,8 @@ The mark is a prism that is also a play button and a terminal prompt: light ente
 | Ink | `#050505` |
 | Beams | `#f3874e` `#859867` `#5f9f9d` |
 | Typeface | Space Mono (Bold for `hbit`, Regular for `HANSON BITOPTIK`) |
+
+Website text uses Source Serif 4 headings, Source Sans 3 reading text and Obel Mono interface details. See [website typography](typography/README.md) for the approved per-site roles and verification. The outlined logo remains Space Mono.
 
 ## Using the assets
 
